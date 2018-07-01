@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bowling</string>
+    <string name="scorecard">scorecard</string>
+    <string name="roll">Roll</string>
+    <string name="reset">Reset</string>
+    <string name="select_your_roll">select your roll</string>
+    <string name="snack_select_pin">Please select the pins</string>
+    <string name="snack_invalid_roll">Invalid roll. Check pins left</string>
+</resources>
